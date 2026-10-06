@@ -1,4 +1,4 @@
-<img src="[CameraSnap.svg](https://github.com/GSWXXN/UnlockMIUICameraSnap/raw/main/doc/CameraSnap.svg)" width="200" alt="icon">
+<img src="https://raw.githubusercontent.com/vay1314/CameraSnap/main/doc/CameraSnap.svg" width="200" alt="CameraSnap">
 
 # CameraSnap
 [![Xposed](https://img.shields.io/badge/-Xposed-green?style=flat&logo=Android&logoColor=white)](#)
