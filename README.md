@@ -4,7 +4,7 @@
 [![Xposed](https://img.shields.io/badge/-Xposed-green?style=flat&logo=Android&logoColor=white)](#)
 [![GitHub](https://img.shields.io/github/license/vay1314/CameraSnap)](https://github.com/vay1314/CameraSnap/blob/main/LICENSE)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/vay1314/CameraSnap?label=version)](https://github.com/vay1314/CameraSnap/releases)
-[![GitHub all releases](https://img.shields.io/github/downloads/vay1314/CameraSnap/total?label=Downloads)](https://github.com/vay1314/CameraSnap/releases)
+[![GitHub all releases](https://img.shields.io/github/downloads/Xposed-Modules-Repo/io.github.vay1314.camerasnap/total?label=Downloads)](https://github.com/vay1314/CameraSnap/releases)
 
 在 HyperOS 中实现息屏长按音量下键拍照、录像。
 
