@@ -6,7 +6,7 @@
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/vay1314/CameraSnap?label=version)](https://github.com/vay1314/CameraSnap/releases)
 [![GitHub all releases](https://img.shields.io/github/downloads/Xposed-Modules-Repo/io.github.vay1314.camerasnap/total?label=Downloads)](https://github.com/vay1314/CameraSnap/releases)
 
-在 HyperOS 中实现息屏长按音量下键拍照、录像。
+为 HyperOS 提供息屏长按音量下键拍照与录像等街拍功能。
 
 ## 测试环境
 
